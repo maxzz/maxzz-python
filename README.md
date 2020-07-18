@@ -43,3 +43,7 @@ div
 -|-
 -->
 ![max](https://avatars.githubusercontent.com/maxzz?s=150&v=1)
+
+<!-- recent_releases starts -->
+Recent releases
+<!-- recent_releases ends -->
