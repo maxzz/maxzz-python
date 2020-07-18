@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Plans, plans, plans ...
+
 <!--
 **maxzz/maxzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +15,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+<!--
+https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
+
+<style>
+  .test {
+    background: red;
+  }
+</style>
+
+<span class="test">test</span>
+
+<div style="background-color: red;">ccc</div>
 -->
