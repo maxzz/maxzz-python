@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 <!--
 https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
+https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
 
 <style>
   .test {
