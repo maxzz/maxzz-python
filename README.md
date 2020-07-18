@@ -1,4 +1,4 @@
-![Build README](https://github.com/maxzz/maxzz/workflows/Build%20README/badge.svg?branch=master&event=page_build)
+![Build README](https://github.com/maxzz/maxzz/workflows/Build%20README/badge.svg)
 
 ### Hi there 👋
 
